@@ -1,0 +1,47 @@
+{
+  "aggiornato": "2026-11-26T17:50:00+01:00",
+  "offerte": [
+    {
+      "id": "B0GZPDBRTM",
+      "titolo": "Blink Outdoor 4 + Videocitofono HD a pile, modulo di sincronizzazione incluso",
+      "url": "https://www.amazon.it/dp/B0GZPDBRTM",
+      "immagine": "https://m.media-amazon.com/images/I/510dHkOiVXL._AC_UL320_.jpg",
+      "categoria": "Elettronica e informatica",
+      "prezzo": 24.99,
+      "prezzo_abituale": 139.98,
+      "sconto_percentuale": 82,
+      "tipo": "offerta",
+      "venditore": "Amazon",
+      "nota": "Black Friday Big Deal: -82% sul prezzo più basso degli ultimi 30 giorni (139,98 €). Minimo storico non verificato.",
+      "trovata_il": "2026-11-26T17:50:00+01:00"
+    },
+    {
+      "id": "B0FTSQR5CX",
+      "titolo": "Blink Outdoor 4 + Videocamera Mini 2K+, modulo di sincronizzazione di base incluso",
+      "url": "https://www.amazon.it/dp/B0FTSQR5CX",
+      "immagine": "https://m.media-amazon.com/images/I/51Bj8xIDXZL._AC_UL320_.jpg",
+      "categoria": "Elettronica e informatica",
+      "prezzo": 24.99,
+      "prezzo_abituale": 124.98,
+      "sconto_percentuale": 80,
+      "tipo": "offerta",
+      "venditore": "Amazon",
+      "nota": "Black Friday Big Deal: -80% sul prezzo più basso degli ultimi 30 giorni (124,98 €); il kit era a 47,99 € nei giorni scorsi.",
+      "trovata_il": "2026-11-26T17:50:00+01:00"
+    },
+    {
+      "id": "B0DCHPYY2Y",
+      "titolo": "GLORIOUS GMMK 3 PRO HE 65% Tastiera gaming wireless (Nero, US QWERTY)",
+      "url": "https://www.amazon.it/dp/B0DCHPYY2Y",
+      "immagine": "https://m.media-amazon.com/images/I/41bFrgD16kL._AC_UL320_.jpg",
+      "categoria": "Videogiochi e console",
+      "prezzo": 66.99,
+      "prezzo_abituale": 155.99,
+      "sconto_percentuale": 57,
+      "tipo": "offerta",
+      "venditore": "Amazon",
+      "nota": "Tastiera Hall Effect con Rapid Trigger a -57% sul minimo dei 30 giorni; segnalata come minimo storico. Layout US.",
+      "trovata_il": "2026-11-26T17:50:00+01:00"
+    }
+  ]
+}
