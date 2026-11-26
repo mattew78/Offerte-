@@ -1,0 +1,48 @@
+{
+  "aggiornato": "2026-11-26T17:32:03+01:00",
+  "offerte": [
+    {
+      "id": "B0ESEMPIO2",
+      "titolo": "ESEMPIO — Cuffie wireless silenziose",
+      "url": "https://www.amazon.it/dp/B0ESEMPIO2",
+      "immagine": "img/esempio-cuffie.svg",
+      "categoria": "Elettronica e informatica",
+      "prezzo": 29.99,
+      "prezzo_abituale": 79.99,
+      "sconto_percentuale": 63,
+      "tipo": "offerta",
+      "venditore": "Negozio Esempio",
+      "nota": "Voce di esempio: non è un prodotto reale e il prezzo è inventato.",
+      "trovata_il": "2026-11-26T17:24:03+01:00"
+    },
+    {
+      "id": "B0ESEMPIO1",
+      "titolo": "ESEMPIO — Console portatile Aurora",
+      "url": "https://www.amazon.it/dp/B0ESEMPIO1",
+      "immagine": "img/esempio-console.svg",
+      "categoria": "Videogiochi e console",
+      "prezzo": 19.9,
+      "prezzo_abituale": 249,
+      "minimo_storico": 189,
+      "sconto_percentuale": 92,
+      "tipo": "errore_prezzo",
+      "venditore": "Amazon",
+      "nota": "Voce di esempio: non è un prodotto reale e il prezzo è inventato.",
+      "trovata_il": "2026-11-26T17:20:03+01:00"
+    },
+    {
+      "id": "B0ESEMPIO3",
+      "titolo": "ESEMPIO — Robot aspirapolvere da tavolo",
+      "url": "https://www.amazon.it/dp/B0ESEMPIO3",
+      "immagine": "img/esempio-robot.svg",
+      "categoria": "Casa ed elettrodomestici",
+      "prezzo": 149,
+      "prezzo_abituale": 229,
+      "minimo_storico": 159,
+      "sconto_percentuale": 35,
+      "tipo": "offerta",
+      "nota": "Voce di esempio: non è un prodotto reale e il prezzo è inventato.",
+      "trovata_il": "2026-11-26T12:32:03+01:00"
+    }
+  ]
+}
