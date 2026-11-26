@@ -53,7 +53,7 @@ File UTF-8, JSON valido, senza commenti e senza virgole finali. I prezzi sono nu
 | Campo | Tipo | Obbligatorio | Descrizione |
 | --- | --- | --- | --- |
 | `id` | stringa | sì | Identificativo stabile tra un aggiornamento e l'altro, di solito l'ASIN. Serve a riconoscere un errore di prezzo già visto. |
-| `titolo` | stringa | sì | Nome del prodotto. Le voci di esempio iniziano con `ESEMPIO`. |
+| `titolo` | stringa | sì | Nome del prodotto. Nell'esempio di schema qui sotto il titolo inizia con `ESEMPIO`, così non si confonde con un'offerta vera. |
 | `url` | stringa | sì | Pagina prodotto Amazon.it (`https://www.amazon.it/dp/...`). Accettati solo `http` e `https`. |
 | `immagine` | stringa | no | URL assoluto `https` oppure percorso relativo al sito, per esempio `img/esempio-cuffie.svg`. |
 | `categoria` | stringa | sì | Uno di questi valori, scritti così: `Elettronica e informatica`, `Casa ed elettrodomestici`, `Videogiochi e console`. Un valore diverso viene comunque mostrato e compare nei filtri. |
@@ -107,13 +107,13 @@ L'`id` deve restare lo stesso finché l'offerta è la stessa. Se cambia a ogni g
 }
 ```
 
-`data/offerte.json` in questo repository contiene tre voci finte, marcate `ESEMPIO`, così la pagina non è vuota prima che parta il job. Due omettono apposta un campo facoltativo (`minimo_storico` oppure `venditore`). Il job può sostituire il file per intero.
+Il blocco qui sopra è solo la forma del file. `data/offerte.json` nel repository è quello pubblicato dal job: offerte reali, senza il prefisso `ESEMPIO`. I campi facoltativi si possono omettere (nel file reale, per esempio, può mancare `minimo_storico`). Il job sovrascrive il file per intero.
 
 ## Interfaccia
 
 - Filtro per categoria, tipo (`offerta` / `errore_prezzo`) e sconto minimo.
 - Ordine per più recenti o per sconto più alto.
-- Le offerte con `trovata_il` nell'ultima ora (rispetto all'orologio del dispositivo) sono evidenziate.
+- Le offerte con `trovata_il` nell'ultima ora (rispetto all'orologio del dispositivo) sono evidenziate. Un orario fino a 15 minuti nel futuro conta ancora come «adesso»: gli orologi del job e del browser non sono sempre allineati.
 - **Vedi su Amazon** apre la pagina prodotto in una nuova scheda con `rel="noopener"`.
 - Se il file manca o non è JSON, compare un errore con **Riprova**. Se un aggiornamento successivo fallisce, restano in pagina i dati già caricati.
 - Se i filtri non trovano nulla, o se `offerte` è vuoto, compare lo stato vuoto.
@@ -126,6 +126,6 @@ L'`id` deve restare lo stesso finché l'offerta è la stessa. Se cambia a ogni g
 | `index.html` | Pagina |
 | `styles.css` | Tema scuro, prima il telefono |
 | `app.js` | Lettura del JSON, filtri, schede |
-| `data/offerte.json` | Dati, anche di esempio |
-| `img/` | Illustrazioni delle voci di esempio |
+| `data/offerte.json` | Dati pubblicati dal job |
+| `img/` | Illustrazioni usate solo nell'esempio di schema |
 | `.nojekyll` | Pubblicazione Pages senza Jekyll |

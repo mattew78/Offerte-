@@ -3,6 +3,7 @@
 const MAX_OFFERS = 200;
 const REFRESH_MS = 3 * 60 * 1000;
 const HOUR_MS = 60 * 60 * 1000;
+const CLOCK_SKEW_MS = 15 * 60 * 1000;
 const SEEN_KEY = 'caccia-offerte-errori-visti';
 const DISMISS_KEY = 'caccia-offerte-avvisi-nascosti';
 
@@ -596,7 +597,7 @@ function setRefreshing(on) {
 function isFresh(ms) {
   if (!Number.isFinite(ms)) return false;
   const delta = Date.now() - ms;
-  return delta >= 0 && delta <= HOUR_MS;
+  return delta >= -CLOCK_SKEW_MS && delta <= HOUR_MS;
 }
 
 function tempoFa(ms) {
