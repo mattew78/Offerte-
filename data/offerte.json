@@ -1,6 +1,21 @@
 {
-  "aggiornato": "2026-11-27T15:09:18+01:00",
+  "aggiornato": "2026-11-27T15:33:00+01:00",
   "offerte": [
+    {
+      "id": "B092W9N9L2",
+      "titolo": "GLORIOUS GPBT Keycaps Profilo Cherry (Arctic White) - DE QWERTZ",
+      "url": "https://www.amazon.it/dp/B092W9N9L2",
+      "immagine": "https://m.media-amazon.com/images/I/41aj9BXyX5L._SL500_.jpg",
+      "categoria": "Elettronica e informatica",
+      "prezzo": 24.99,
+      "prezzo_abituale": 53.27,
+      "minimo_storico": 24.99,
+      "sconto_percentuale": 53,
+      "tipo": "offerta",
+      "venditore": "Amazon",
+      "nota": "Al minimo storico Camel (Amazon) di 24,99 € (dal 25/11/2026); media Camel 53,27 € (-53%). Venduto e spedito da Amazon. Attenzione: layout tedesco QWERTZ (ISO), set da 115 tasti.",
+      "trovata_il": "2026-11-27T15:33:00+01:00"
+    },
     {
       "id": "B0F6Z1512D",
       "titolo": "Ghost of Yōtei (PS5)",
