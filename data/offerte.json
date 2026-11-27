@@ -1,6 +1,21 @@
 {
-  "aggiornato": "2026-11-27T16:27:18+01:00",
+  "aggiornato": "2026-11-27T17:07:59+01:00",
   "offerte": [
+    {
+      "id": "B0FTSQDBYD",
+      "titolo": "Videocamera Blink Outdoor 4 con modulo di sincronizzazione di base + Videocamera Mini 2K+ Blink inclusa",
+      "url": "https://www.amazon.it/dp/B0FTSQDBYD",
+      "immagine": "https://m.media-amazon.com/images/I/517ZUWB+JuL._SL1500_.jpg",
+      "categoria": "Elettronica e informatica",
+      "prezzo": 47.99,
+      "prezzo_abituale": 125.59,
+      "minimo_storico": 47.99,
+      "sconto_percentuale": 62,
+      "tipo": "offerta",
+      "venditore": "Amazon",
+      "nota": "Pari al minimo storico Prezzaffari (47,99 €, già toccato il 29/09/2026); media 90 gg 125,59 € (-62%), ma la media a 30 giorni è già 47,99 €: il prezzo è stabile da circa un mese, quindi lo sconto reale recente è nullo. Riferimento Amazon 199,98 € = somma dei prodotti del kit (-76%). Venduto da Amazon.",
+      "trovata_il": "2026-11-27T17:07:59+01:00"
+    },
     {
       "id": "B0HPBSX44B",
       "titolo": "Ring Intercom Audio + Ring Videocamera interna motorizzata (Pan-Tilt), Nero",
