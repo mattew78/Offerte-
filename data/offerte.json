@@ -1,6 +1,36 @@
 {
-  "aggiornato": "2026-11-27T18:37:02+01:00",
+  "aggiornato": "2026-11-27T19:37:39+01:00",
   "offerte": [
+    {
+      "id": "B0B1N5RL1Q",
+      "titolo": "Videocamera Blink Outdoor 4 - Videocamera di sicurezza smart HD wireless, autonomia di due anni - Solo videocamera supplementare",
+      "url": "https://www.amazon.it/dp/B0B1N5RL1Q",
+      "immagine": "https://m.media-amazon.com/images/I/61vNQupyR6L._SL1000_.jpg",
+      "categoria": "Elettronica e informatica",
+      "prezzo": 24.99,
+      "prezzo_abituale": 74.99,
+      "minimo_storico": 24.99,
+      "sconto_percentuale": 67,
+      "tipo": "offerta",
+      "venditore": "Amazon",
+      "nota": "-67% sul prezzo più basso degli ultimi 30 giorni indicato da Amazon (74,99 €); 24,99 € è pari al minimo storico. Videocamera supplementare: richiede un Sync Module. Venduto e spedito da Amazon.",
+      "trovata_il": "2026-11-27T19:37:39+01:00"
+    },
+    {
+      "id": "B0G4NC8KN7",
+      "titolo": "roborock Saros 20 Set Robot Aspirapolvere Lavapavimenti 36.000Pa, 7,95cm",
+      "url": "https://www.amazon.it/dp/B0G4NC8KN7",
+      "immagine": "https://m.media-amazon.com/images/I/61f10kKg8CL._AC_SL1500_.jpg",
+      "categoria": "Casa ed elettrodomestici",
+      "prezzo": 799.0,
+      "prezzo_abituale": 1449.0,
+      "minimo_storico": 799.0,
+      "sconto_percentuale": 45,
+      "tipo": "offerta",
+      "venditore": "Roborock Official EU (spedito da Amazon)",
+      "nota": "-45% sul prezzo più basso degli ultimi 30 giorni indicato da Amazon (1.449 €); prezzo più basso mai rilevato (Saros 20 base mai sotto 949 €). Store ufficiale Roborock, spedizione Amazon.",
+      "trovata_il": "2026-11-27T19:37:39+01:00"
+    },
     {
       "id": "B0GTM5HFWW",
       "titolo": "MOVA S70 Ultra Roller Robot Aspirapolvere, Bianco",
