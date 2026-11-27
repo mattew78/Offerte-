@@ -1,6 +1,20 @@
 {
-  "aggiornato": "2026-11-27T22:53:57+01:00",
+  "aggiornato": "2026-11-27T23:20:43+01:00",
   "offerte": [
+    {
+      "id": "B0F9LGFSFT",
+      "titolo": "roborock H60 Aspirapolvere Senza Fili, Aspirazione Potente 27,000Pa, 60 min",
+      "url": "https://www.amazon.it/dp/B0F9LGFSFT",
+      "immagine": "https://m.media-amazon.com/images/I/51d12uDNK5L._AC_SL1500_.jpg",
+      "categoria": "Casa ed elettrodomestici",
+      "prezzo": 89.0,
+      "prezzo_abituale": 149.99,
+      "sconto_percentuale": 41,
+      "tipo": "offerta",
+      "venditore": "Amazon",
+      "nota": "Black Friday: -41% sul prezzo più basso degli ultimi 30 giorni indicato da Amazon (149,99 €); listino 249 €. Venduto da Amazon.",
+      "trovata_il": "2026-11-27T23:20:43+01:00"
+    },
     {
       "id": "B0FP313V6S",
       "titolo": "Google Nest Cam Indoor (con cavo, 3ª gen.) - Videocamera di sicurezza per interni con Video 2K - Compatibile con Google Home - Bianco ghiacc",
