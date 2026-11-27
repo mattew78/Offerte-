@@ -1,6 +1,51 @@
 {
-  "aggiornato": "2026-11-27T13:27:00+01:00",
+  "aggiornato": "2026-11-27T13:35:00+01:00",
   "offerte": [
+    {
+      "id": "B0FLF61NPF",
+      "titolo": "OCTOPATH TRAVELER 0 NSW2",
+      "url": "https://www.amazon.it/dp/B0FLF61NPF",
+      "immagine": "https://m.media-amazon.com/images/I/51xv54MwZrL._SL500_.jpg",
+      "categoria": "Videogiochi e console",
+      "prezzo": 29.97,
+      "prezzo_abituale": 54.68,
+      "minimo_storico": 39.99,
+      "sconto_percentuale": 45,
+      "tipo": "offerta",
+      "venditore": "Amazon",
+      "nota": "Nuovo minimo storico: 29,97 € venduto e spedito da Amazon, contro un minimo Camel di 39,99 € (media 54,68 €). Prezzo verificato su amazon.it (-50% sul listino di 59,99 €).",
+      "trovata_il": "2026-11-27T13:35:00+01:00"
+    },
+    {
+      "id": "B0H62QD6KF",
+      "titolo": "Google Pixel Watch 5 (41mm) Smartwatch Nero/Cinturino Nero Ossidiana, Wi-Fi",
+      "url": "https://www.amazon.it/dp/B0H62QD6KF",
+      "immagine": "https://m.media-amazon.com/images/I/416aDBg2jDL._SL500_.jpg",
+      "categoria": "Elettronica e informatica",
+      "prezzo": 257.18,
+      "prezzo_abituale": 403.4,
+      "minimo_storico": 389.6,
+      "sconto_percentuale": 36,
+      "tipo": "offerta",
+      "venditore": "Amazon",
+      "nota": "Nuovo minimo storico: 257,18 € venduto e spedito da Amazon, contro un minimo Camel di 389,60 € (media 403,40 €). Prezzo verificato su amazon.it; sconto reale circa 36%.",
+      "trovata_il": "2026-11-27T13:35:00+01:00"
+    },
+    {
+      "id": "B0G2KBCNFJ",
+      "titolo": "Ring Intercom Video (ultimo modello) con videocamera interna inclusa",
+      "url": "https://www.amazon.it/dp/B0G2KBCNFJ",
+      "immagine": "https://m.media-amazon.com/images/I/21AR303gz3L._SL500_.jpg",
+      "categoria": "Casa ed elettrodomestici",
+      "prezzo": 47.99,
+      "prezzo_abituale": 79.99,
+      "minimo_storico": null,
+      "sconto_percentuale": 40,
+      "tipo": "offerta",
+      "venditore": "Amazon",
+      "nota": "Bundle Intercom Video + Indoor Cam a 47,99 €, venduto e spedito da Amazon, con badge 'prezzo più basso di sempre' (minimo 30 giorni 149,98 €). Camel ha un solo rilevamento a 79,99 €, quindi il minimo storico non è verificato.",
+      "trovata_il": "2026-11-27T13:35:00+01:00"
+    },
     {
       "id": "B0GWMXZ4BZ",
       "titolo": "LG OLED evo AI 65 pollici Serie G6 2026 Smart TV 4K - OLED65G64LW (staffa a muro inclusa)",
