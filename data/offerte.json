@@ -1,6 +1,51 @@
 {
-  "aggiornato": "2026-11-27T14:10:01+01:00",
+  "aggiornato": "2026-11-27T14:24:00+01:00",
   "offerte": [
+    {
+      "id": "B0DJC9563Z",
+      "titolo": "Horizon Zero Dawn Remastered Edition (PS5)",
+      "url": "https://www.amazon.it/dp/B0DJC9563Z",
+      "immagine": "https://m.media-amazon.com/images/I/51e+BvsQccL._SL500_.jpg",
+      "categoria": "Videogiochi e console",
+      "prezzo": 19.99,
+      "prezzo_abituale": 41.6,
+      "minimo_storico": 19.99,
+      "sconto_percentuale": 52,
+      "tipo": "offerta",
+      "venditore": "Amazon",
+      "nota": "Al minimo storico Camel (19,99 €, già toccato da giu 2026): venduto e spedito da Amazon; media Camel 41,60 € (-52%), listino 50,99 €. Include DLC The Frozen Wilds.",
+      "trovata_il": "2026-11-27T14:24:00+01:00"
+    },
+    {
+      "id": "B0DSQ4L7VK",
+      "titolo": "HyperX Pulsefire Saga Pro Mouse gaming wireless 4K polling, modulare, 72 g",
+      "url": "https://www.amazon.it/dp/B0DSQ4L7VK",
+      "immagine": "https://m.media-amazon.com/images/I/21OACvckxTL._SL500_.jpg",
+      "categoria": "Elettronica e informatica",
+      "prezzo": 45.99,
+      "prezzo_abituale": 90.25,
+      "minimo_storico": 45.99,
+      "sconto_percentuale": 49,
+      "tipo": "offerta",
+      "venditore": "Amazon",
+      "nota": "Al minimo storico Camel (45,99 € dal 16/11): venduto e spedito da Amazon; media Camel 90,25 € (-49%), massimo 119,99 €. Amazon indica -62%.",
+      "trovata_il": "2026-11-27T14:24:00+01:00"
+    },
+    {
+      "id": "B0C8187TV9",
+      "titolo": "Marvel's Spider-Man 2 (PS5)",
+      "url": "https://www.amazon.it/dp/B0C8187TV9",
+      "immagine": "https://m.media-amazon.com/images/I/51VG4qrXSRL._SL500_.jpg",
+      "categoria": "Videogiochi e console",
+      "prezzo": 39.97,
+      "prezzo_abituale": 57.07,
+      "minimo_storico": 39.9,
+      "sconto_percentuale": 30,
+      "tipo": "offerta",
+      "venditore": "Amazon",
+      "nota": "Praticamente al minimo storico Camel (39,90 €, ago 2026): venduto e spedito da Amazon; media Camel 57,07 € (-30%), listino 79,99 €.",
+      "trovata_il": "2026-11-27T14:24:00+01:00"
+    },
     {
       "id": "B0DPB7RN2L",
       "titolo": "dreame X50 Ultra Complete Robot Aspirapolvere Lavapavimenti, 20.000 Pa",
