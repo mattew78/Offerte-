@@ -1,6 +1,51 @@
 {
-  "aggiornato": "2026-11-27T20:13:54+01:00",
+  "aggiornato": "2026-11-27T20:22:13+01:00",
   "offerte": [
+    {
+      "id": "B0DKLDMHYB",
+      "titolo": "Amazon Echo Dot Max (ultimo modello) - Altoparlante Alexa con audio avvolgente, Hub Casa Intelligente integrato, Ametista, con Accesso Anticipato ad Alexa+",
+      "url": "https://www.amazon.it/dp/B0DKLDMHYB",
+      "immagine": "https://m.media-amazon.com/images/I/7196SH2aQ-L._AC_SL1500_.jpg",
+      "categoria": "Elettronica e informatica",
+      "prezzo": 54.99,
+      "prezzo_abituale": 129.99,
+      "minimo_storico": 54.99,
+      "sconto_percentuale": 58,
+      "tipo": "offerta",
+      "venditore": "Amazon",
+      "nota": "Black Friday: -58% sul prezzo più basso degli ultimi 30 giorni indicato da Amazon (129,99 €); pari al minimo storico Prezzaffari. Variante Ametista.",
+      "trovata_il": "2026-11-27T20:22:13+01:00"
+    },
+    {
+      "id": "B0H5LD2R8K",
+      "titolo": "HONOR Magic V6 16+512GB Black",
+      "url": "https://www.amazon.it/dp/B0H5LD2R8K",
+      "immagine": "https://m.media-amazon.com/images/I/81tUtTHduvL._AC_SL1500_.jpg",
+      "categoria": "Elettronica e informatica",
+      "prezzo": 1279.0,
+      "prezzo_abituale": 2299.9,
+      "minimo_storico": 1279.0,
+      "sconto_percentuale": 44,
+      "tipo": "offerta",
+      "venditore": "Amazon",
+      "nota": "Pieghevole al minimo storico (Prezzaffari); -44% sul prezzo consigliato, -31% sul massimo degli ultimi 90 giorni (1.849 €).",
+      "trovata_il": "2026-11-27T20:22:13+01:00"
+    },
+    {
+      "id": "B0G6ZSPW57",
+      "titolo": "Samsung Galaxy S26 Ultra, 256GB, Black [Versione italiana]",
+      "url": "https://www.amazon.it/dp/B0G6ZSPW57",
+      "immagine": "https://m.media-amazon.com/images/I/71Fq37TeWhL._AC_SL1500_.jpg",
+      "categoria": "Elettronica e informatica",
+      "prezzo": 999.49,
+      "prezzo_abituale": 1599.0,
+      "minimo_storico": 999.49,
+      "sconto_percentuale": 37,
+      "tipo": "offerta",
+      "venditore": "Amazon",
+      "nota": "Torna al minimo storico (999,49 €, già visto a giugno secondo Prezzaffari); -37% sul prezzo di listino. Venduto da Amazon.",
+      "trovata_il": "2026-11-27T20:22:13+01:00"
+    },
     {
       "id": "B0GHN3V6BP",
       "titolo": "roborock Qrevo S Pro Robot Aspirapolvere Lavapavimenti, Lavaggio Panno 75°C",
@@ -2934,48 +2979,6 @@
       "venditore": "Amazon",
       "nota": "Offerta Black Friday: -60% sul prezzo più basso degli ultimi 30 giorni indicato da Amazon (199,99 €). Sotto il minimo degli ultimi 90 giorni (89,99 €, tracker Offerte Shock Italia).",
       "trovata_il": "2026-11-27T12:39:37+01:00"
-    },
-    {
-      "id": "B0DKLVWZPF",
-      "titolo": "Amazon Echo Dot Max (ultimo modello) - Altoparlante Alexa con audio avvolgente, Hub Casa Intelligente integrato, Bianco ghiaccio, con Access",
-      "url": "https://www.amazon.it/dp/B0DKLVWZPF",
-      "immagine": "https://m.media-amazon.com/images/I/71veJ3F9bCL._AC_SY679_.jpg",
-      "categoria": "Elettronica e informatica",
-      "prezzo": 54.99,
-      "prezzo_abituale": 129.99,
-      "sconto_percentuale": 58,
-      "tipo": "offerta",
-      "venditore": "Amazon",
-      "nota": "Offerta Black Friday: -58% sul prezzo più basso degli ultimi 30 giorni indicato da Amazon (129,99 €). Pari al minimo degli ultimi 90 giorni (tracker Offerte Shock Italia).",
-      "trovata_il": "2026-11-27T12:39:36+01:00"
-    },
-    {
-      "id": "B0C2S2J7JP",
-      "titolo": "Amazon Echo Spot | Sveglia intelligente con audio di qualità | Nero, con Accesso Anticipato ad Alexa+",
-      "url": "https://www.amazon.it/dp/B0C2S2J7JP",
-      "immagine": "https://m.media-amazon.com/images/I/71JwhL4aD+L._AC_SY679_.jpg",
-      "categoria": "Elettronica e informatica",
-      "prezzo": 49.99,
-      "prezzo_abituale": 119.49,
-      "sconto_percentuale": 58,
-      "tipo": "offerta",
-      "venditore": "Amazon",
-      "nota": "Offerta Black Friday: -58% sul prezzo più basso degli ultimi 30 giorni indicato da Amazon (119,49 €). Pari al minimo degli ultimi 90 giorni (tracker Offerte Shock Italia).",
-      "trovata_il": "2026-11-27T12:39:35+01:00"
-    },
-    {
-      "id": "B0F3BG7BPZ",
-      "titolo": "Videocamera Mini 2K+ Blink (ultimo modello), Videocamera di sicurezza domestica con alimentatore plug-in, risoluzione video 2K, zoom 4x, vis",
-      "url": "https://www.amazon.it/dp/B0F3BG7BPZ",
-      "immagine": "https://m.media-amazon.com/images/I/31hMCm9Vy-L._SY300_SX300_QL70_ML2_.jpg",
-      "categoria": "Elettronica e informatica",
-      "prezzo": 34.99,
-      "prezzo_abituale": 79.99,
-      "sconto_percentuale": 56,
-      "tipo": "offerta",
-      "venditore": "Amazon",
-      "nota": "Offerta Black Friday: -56% sul prezzo più basso degli ultimi 30 giorni indicato da Amazon (79,99 €). Il riferimento è la somma dei prodotti del kit: lo sconto reale è più basso. Pari al minimo degli ultimi 90 giorni (tracker Offerte Shock Italia).",
-      "trovata_il": "2026-11-27T12:39:34+01:00"
     }
   ]
 }
