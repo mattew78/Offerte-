@@ -1,6 +1,51 @@
 {
-  "aggiornato": "2026-11-27T14:57:44+01:00",
+  "aggiornato": "2026-11-27T15:09:18+01:00",
   "offerte": [
+    {
+      "id": "B0F6Z1512D",
+      "titolo": "Ghost of Yōtei (PS5)",
+      "url": "https://www.amazon.it/dp/B0F6Z1512D",
+      "immagine": "https://m.media-amazon.com/images/I/41y1zsQX1pL._SL500_.jpg",
+      "categoria": "Videogiochi e console",
+      "prezzo": 39.97,
+      "prezzo_abituale": 70.61,
+      "minimo_storico": 57.37,
+      "sconto_percentuale": 43,
+      "tipo": "offerta",
+      "venditore": "Amazon",
+      "nota": "Nuovo minimo storico: sotto il precedente minimo Camel (Amazon) di 57,37 € (lug 2026); media Camel 70,61 € (-43%), RRP Amazon 65,99 €. Venduto e spedito da Amazon; consegna indicata 15-18 gennaio.",
+      "trovata_il": "2026-11-27T15:09:18+01:00"
+    },
+    {
+      "id": "B0D1ZSC62P",
+      "titolo": "Amazon Fire TV Soundbar Plus, 3.1 canali, Dolby Atmos, DTS:X",
+      "url": "https://www.amazon.it/dp/B0D1ZSC62P",
+      "immagine": "https://m.media-amazon.com/images/I/31odH9hk4lL._SL500_.jpg",
+      "categoria": "Elettronica e informatica",
+      "prezzo": 148.49,
+      "prezzo_abituale": 235.19,
+      "minimo_storico": 159.99,
+      "sconto_percentuale": 37,
+      "tipo": "offerta",
+      "venditore": "Amazon",
+      "nota": "Nuovo minimo storico: sotto il precedente minimo Camel (Amazon) di 159,99 € (nov 2025); media Camel 235,19 € (-37%), listino 269,99 €. Venduto e spedito da Amazon (offerta a tempo, 66% richiesto).",
+      "trovata_il": "2026-11-27T15:09:18+01:00"
+    },
+    {
+      "id": "B0FX9SJNV2",
+      "titolo": "Fire TV Stick 4K Select + controller Luna | Bundle per giocare in streaming",
+      "url": "https://www.amazon.it/dp/B0FX9SJNV2",
+      "immagine": "https://m.media-amazon.com/images/I/31-Wy3wW-RL._SL500_.jpg",
+      "categoria": "Videogiochi e console",
+      "prezzo": 62.98,
+      "prezzo_abituale": 104.98,
+      "minimo_storico": 59.98,
+      "sconto_percentuale": 40,
+      "tipo": "offerta",
+      "venditore": "Amazon",
+      "nota": "Kit: il -55% di Amazon è sul prezzo più basso dei 30 giorni (139,98 €). Media Camel del kit 104,98 € (-40%); minimo storico 59,98 € (dic 2025), oggi +3 €. Somma dei singoli oggi 67,98 € (Stick 27,99 + Luna 39,99), risparmio bundle 5 €. Venduto e spedito da Amazon.",
+      "trovata_il": "2026-11-27T15:09:18+01:00"
+    },
     {
       "id": "B01J5FFW9Y",
       "titolo": "Philips Viva Collection Tostapane 2 Fette, 7 Impostazioni, 950W, Inox/Nero (HD2637/90)",
