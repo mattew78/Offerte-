@@ -1,6 +1,36 @@
 {
-  "aggiornato": "2026-11-27T22:21:18+01:00",
+  "aggiornato": "2026-11-27T22:53:57+01:00",
   "offerte": [
+    {
+      "id": "B0FP313V6S",
+      "titolo": "Google Nest Cam Indoor (con cavo, 3ª gen.) - Videocamera di sicurezza per interni con Video 2K - Compatibile con Google Home - Bianco ghiacc",
+      "url": "https://www.amazon.it/dp/B0FP313V6S",
+      "immagine": "https://m.media-amazon.com/images/I/61fhyYSlsrL._SL500_.jpg",
+      "categoria": "Elettronica e informatica",
+      "prezzo": 69.99,
+      "prezzo_abituale": 99.99,
+      "minimo_storico": 69.79,
+      "sconto_percentuale": 30,
+      "tipo": "offerta",
+      "venditore": "Amazon",
+      "nota": "Pari al minimo storico 12 mesi (Keepa ~69,79-69,99 €, già a marzo e da metà novembre); prezzo abituale 99,99 €.",
+      "trovata_il": "2026-11-27T22:53:57+01:00"
+    },
+    {
+      "id": "B0D3JHKYNG",
+      "titolo": "Beats Solo Buds Auricolari wireless - Rosso trasparente",
+      "url": "https://www.amazon.it/dp/B0D3JHKYNG",
+      "immagine": "https://m.media-amazon.com/images/I/51qk20yBqeL._SL500_.jpg",
+      "categoria": "Elettronica e informatica",
+      "prezzo": 49.0,
+      "prezzo_abituale": 69.9,
+      "minimo_storico": 49.0,
+      "sconto_percentuale": 30,
+      "tipo": "offerta",
+      "venditore": "Amazon",
+      "nota": "Pari al minimo storico 12 mesi (Keepa, 49 € anche a gennaio); abituale 69-90 €, minimo 30 gg Amazon 59,90 €.",
+      "trovata_il": "2026-11-27T22:53:57+01:00"
+    },
     {
       "id": "B0DF7FM3GF",
       "titolo": "OtterBox Cover Commuter MagSafe per iPhone 16 Pro Max, Nero",
@@ -2948,36 +2978,6 @@
       "venditore": "Amazon",
       "nota": "Offerta Black Friday venduta da Amazon: -53% sul prezzo consigliato (24,90 €); storico prezzi non disponibile, lo sconto reale potrebbe essere più basso.",
       "trovata_il": "2026-11-27T16:27:03+01:00"
-    },
-    {
-      "id": "B0GR6CYWF9",
-      "titolo": "MotoGP 26 - Dayone Edition (Xbox Series X)",
-      "url": "https://www.amazon.it/dp/B0GR6CYWF9",
-      "immagine": "https://m.media-amazon.com/images/I/81xjduD3YjL._AC_SL1500_.jpg",
-      "categoria": "Videogiochi e console",
-      "prezzo": 22.49,
-      "prezzo_abituale": 48.44,
-      "minimo_storico": 24.97,
-      "sconto_percentuale": 54,
-      "tipo": "offerta",
-      "venditore": "Amazon",
-      "nota": "Nuovo minimo storico (oggi, 27/11): sotto il precedente minimo Prezzaffari di 24,97 € (23/11/2026); media 90 gg 48,44 € (-54%). Prezzo più basso 30 gg indicato da Amazon 29,99 €, prezzo consigliato 69,99 € (-68%). Venduto da Amazon, Offerta Black Friday.",
-      "trovata_il": "2026-11-27T16:14:33+01:00"
-    },
-    {
-      "id": "B084PSXMQM",
-      "titolo": "BISSELL SpotClean Pet Pro Lavatappeti 750W 15585",
-      "url": "https://www.amazon.it/dp/B084PSXMQM",
-      "immagine": "https://m.media-amazon.com/images/I/717n80vcVUL._AC_SL1500_.jpg",
-      "categoria": "Casa ed elettrodomestici",
-      "prezzo": 113.99,
-      "prezzo_abituale": 193.7,
-      "minimo_storico": 149.98,
-      "sconto_percentuale": 41,
-      "tipo": "offerta",
-      "venditore": "Amazon",
-      "nota": "Nuovo minimo storico (oggi, 27/11) secondo Prezzaffari: precedente minimo 149,98 € (settimana del 16/11/2026); media 90 gg 193,70 € (-41%). Prezzo più basso 30 gg indicato da Amazon 199,99 € (-43%). Venduto da Amazon, Offerta Black Friday.",
-      "trovata_il": "2026-11-27T16:14:33+01:00"
     }
   ]
 }
