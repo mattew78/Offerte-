@@ -1,6 +1,21 @@
 {
-  "aggiornato": "2026-11-27T12:39:50+01:00",
+  "aggiornato": "2026-11-27T12:56:11+01:00",
   "offerte": [
+    {
+      "id": "B0F3JVK9N6",
+      "titolo": "Nintendo Switch 2 Coppia di Volanti per Joy-Con (Set da Due)",
+      "url": "https://www.amazon.it/dp/B0F3JVK9N6",
+      "immagine": "https://m.media-amazon.com/images/I/61SOlR1tYAL._AC_SL1500_.jpg",
+      "categoria": "Videogiochi e console",
+      "prezzo": 9.97,
+      "prezzo_abituale": 19.99,
+      "minimo_storico": null,
+      "sconto_percentuale": 50,
+      "tipo": "offerta",
+      "venditore": "Amazon",
+      "nota": "Offerta lampo Black Friday, venduto e spedito da Amazon (verificato su amazon.it). -50% sul prezzo consigliato Nintendo (19,99 €); Amazon non mostra il prezzo più basso degli ultimi 30 giorni e lo storico Keepa/Camel non è verificabile: minimo storico non verificato.",
+      "trovata_il": "2026-11-27T12:56:11+01:00"
+    },
     {
       "id": "B0DH56DYJH",
       "titolo": "Ring Intercom Audio con videocamera interna inclusa",
