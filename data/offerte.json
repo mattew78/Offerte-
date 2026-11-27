@@ -1,6 +1,51 @@
 {
-  "aggiornato": "2026-11-27T18:25:02+01:00",
+  "aggiornato": "2026-11-27T18:37:02+01:00",
   "offerte": [
+    {
+      "id": "B0GTM5HFWW",
+      "titolo": "MOVA S70 Ultra Roller Robot Aspirapolvere, Bianco",
+      "url": "https://www.amazon.it/dp/B0GTM5HFWW",
+      "immagine": "https://m.media-amazon.com/images/I/61mCcQ8G71L._AC_SL1446_.jpg",
+      "categoria": "Casa ed elettrodomestici",
+      "prezzo": 466.0,
+      "prezzo_abituale": 747.35,
+      "minimo_storico": 466.0,
+      "sconto_percentuale": 38,
+      "tipo": "offerta",
+      "venditore": "Amazon",
+      "nota": "Pari al minimo storico Prezzaffari (466,00 €, registrato il 26/11/2026); media 90 gg 747,35 € (-38%), media 30 gg 638,62 € (-27%). Venduto da Amazon.",
+      "trovata_il": "2026-11-27T18:37:02+01:00"
+    },
+    {
+      "id": "B0DXFTSVBC",
+      "titolo": "Mova X4 Pro Aspirapolvere Lavapavimenti, Powered by dreame",
+      "url": "https://www.amazon.it/dp/B0DXFTSVBC",
+      "immagine": "https://m.media-amazon.com/images/I/51MBLWDlqVL._AC_SL1500_.jpg",
+      "categoria": "Casa ed elettrodomestici",
+      "prezzo": 189.99,
+      "prezzo_abituale": 266.56,
+      "minimo_storico": 189.99,
+      "sconto_percentuale": 29,
+      "tipo": "offerta",
+      "venditore": "Amazon",
+      "nota": "Nuovo minimo storico Prezzaffari (189,99 €, oggi 27/11/2026; precedente minimo 90 gg 199,00 €); media 90 gg 266,56 € (-29%), media 30 gg 240,06 € (-21%). Venduto da Amazon.",
+      "trovata_il": "2026-11-27T18:37:01+01:00"
+    },
+    {
+      "id": "B0H414WGY7",
+      "titolo": "Narwal Freo 20 Edge Robot Aspirapolvere Lavapavimenti,Track Mop Autopulente",
+      "url": "https://www.amazon.it/dp/B0H414WGY7",
+      "immagine": "https://m.media-amazon.com/images/I/61WDAOLzwZL._AC_SL1500_.jpg",
+      "categoria": "Casa ed elettrodomestici",
+      "prezzo": 489.0,
+      "prezzo_abituale": 689.16,
+      "minimo_storico": 489.0,
+      "sconto_percentuale": 29,
+      "tipo": "offerta",
+      "venditore": "Narwal Direct (spedito da Amazon)",
+      "nota": "Pari al minimo storico Prezzaffari (489,00 €, registrato il 11/11/2026); media 90 gg 689,16 € (-29%), media 30 gg 597,31 € (-18%). Venduto da Narwal Direct (store ufficiale), spedito da Amazon.",
+      "trovata_il": "2026-11-27T18:37:00+01:00"
+    },
     {
       "id": "B0C2QG2D3Y",
       "titolo": "Garmin Forerunner 265S, Smartwatch per la corsa, 42mm, GPS multi-band, Display AMOLED, VO2max, HRV Status, Dinamiche di corsa al polso, Temp",
