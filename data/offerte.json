@@ -1,6 +1,51 @@
 {
-  "aggiornato": "2026-11-27T16:05:32+01:00",
+  "aggiornato": "2026-11-27T16:14:33+01:00",
   "offerte": [
+    {
+      "id": "B0GR6CYWF9",
+      "titolo": "MotoGP 26 - Dayone Edition (Xbox Series X)",
+      "url": "https://www.amazon.it/dp/B0GR6CYWF9",
+      "immagine": "https://m.media-amazon.com/images/I/81xjduD3YjL._AC_SL1500_.jpg",
+      "categoria": "Videogiochi e console",
+      "prezzo": 22.49,
+      "prezzo_abituale": 48.44,
+      "minimo_storico": 24.97,
+      "sconto_percentuale": 54,
+      "tipo": "offerta",
+      "venditore": "Amazon",
+      "nota": "Nuovo minimo storico (oggi, 27/11): sotto il precedente minimo Prezzaffari di 24,97 € (23/11/2026); media 90 gg 48,44 € (-54%). Prezzo più basso 30 gg indicato da Amazon 29,99 €, prezzo consigliato 69,99 € (-68%). Venduto da Amazon, Offerta Black Friday.",
+      "trovata_il": "2026-11-27T16:14:33+01:00"
+    },
+    {
+      "id": "B084PSXMQM",
+      "titolo": "BISSELL SpotClean Pet Pro Lavatappeti 750W 15585",
+      "url": "https://www.amazon.it/dp/B084PSXMQM",
+      "immagine": "https://m.media-amazon.com/images/I/717n80vcVUL._AC_SL1500_.jpg",
+      "categoria": "Casa ed elettrodomestici",
+      "prezzo": 113.99,
+      "prezzo_abituale": 193.7,
+      "minimo_storico": 149.98,
+      "sconto_percentuale": 41,
+      "tipo": "offerta",
+      "venditore": "Amazon",
+      "nota": "Nuovo minimo storico (oggi, 27/11) secondo Prezzaffari: precedente minimo 149,98 € (settimana del 16/11/2026); media 90 gg 193,70 € (-41%). Prezzo più basso 30 gg indicato da Amazon 199,99 € (-43%). Venduto da Amazon, Offerta Black Friday.",
+      "trovata_il": "2026-11-27T16:14:33+01:00"
+    },
+    {
+      "id": "B0FDQLY8BY",
+      "titolo": "Borderlands 4 (PS5)",
+      "url": "https://www.amazon.it/dp/B0FDQLY8BY",
+      "immagine": "https://m.media-amazon.com/images/I/81ONZaiyYvL._AC_SL1500_.jpg",
+      "categoria": "Videogiochi e console",
+      "prezzo": 25.97,
+      "prezzo_abituale": 30.26,
+      "minimo_storico": 25.97,
+      "sconto_percentuale": 14,
+      "tipo": "offerta",
+      "venditore": "Amazon",
+      "nota": "Pari al minimo storico Prezzaffari di 25,97 € (dal 23/11/2026; storico 12 mesi: max 79,90 €, prezzi da 59,99 € a dic 2025). -14% sulla media 90 gg (30,26 €); il -68% mostrato da Amazon è sul prezzo consigliato di 81,00 €, non uno sconto reale. Venduto da Amazon, Offerta Black Friday.",
+      "trovata_il": "2026-11-27T16:14:33+01:00"
+    },
     {
       "id": "B0FKH7XVR2",
       "titolo": "Slime Rancher 2 - PS5",
