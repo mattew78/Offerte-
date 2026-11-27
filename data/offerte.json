@@ -1,6 +1,51 @@
 {
-  "aggiornato": "2026-11-27T14:24:00+01:00",
+  "aggiornato": "2026-11-27T14:40:18+01:00",
   "offerte": [
+    {
+      "id": "B09JM8SX8G",
+      "titolo": "Turtle Beach VelocityOne Flight Sistema di comandi universale per Xbox Series X|S e Xbox One | Windows 10/11",
+      "url": "https://www.amazon.it/dp/B09JM8SX8G",
+      "immagine": "https://m.media-amazon.com/images/I/31AkRcIBDGL._SL500_.jpg",
+      "categoria": "Videogiochi e console",
+      "prezzo": 239.99,
+      "prezzo_abituale": 378.2,
+      "minimo_storico": 239.99,
+      "sconto_percentuale": 37,
+      "tipo": "offerta",
+      "venditore": "Amazon",
+      "nota": "Nuovo minimo storico: il precedente minimo Camel (Amazon) era 299,99 € (mar 2026); media Camel 378,20 € (-37%), listino 379,99 €. Venduto e spedito da Amazon.",
+      "trovata_il": "2026-11-27T14:40:18+01:00"
+    },
+    {
+      "id": "B0CVR9WVFX",
+      "titolo": "Tapo C425 2K Telecamera WiFi Esterno Senza Fili Batteria 300 Giorni, 2pz",
+      "url": "https://www.amazon.it/dp/B0CVR9WVFX",
+      "immagine": "https://m.media-amazon.com/images/I/41aNRyXOeJL._SL500_.jpg",
+      "categoria": "Elettronica e informatica",
+      "prezzo": 129.99,
+      "prezzo_abituale": 193.58,
+      "minimo_storico": 129.99,
+      "sconto_percentuale": 33,
+      "tipo": "offerta",
+      "venditore": "TP-Link IT (spedito da Amazon)",
+      "nota": "Confezione da 2 al minimo storico Amazon su Camel (129,99 €, già toccato a mag 2026); media Camel 193,58 € (-33%), listino Amazon 219,99 €. Terze parti scese fino a 119,99 € in passato.",
+      "trovata_il": "2026-11-27T14:40:18+01:00"
+    },
+    {
+      "id": "B0H7RJH9DC",
+      "titolo": "EA SPORTS FC 27 Edizione Standard Nintendo Switch 2 | Cartuccia fisica",
+      "url": "https://www.amazon.it/dp/B0H7RJH9DC",
+      "immagine": "https://m.media-amazon.com/images/I/51g06bsXGkL._SL500_.jpg",
+      "categoria": "Videogiochi e console",
+      "prezzo": 36.99,
+      "prezzo_abituale": null,
+      "minimo_storico": 36.99,
+      "sconto_percentuale": 38,
+      "tipo": "offerta",
+      "venditore": "Amazon",
+      "nota": "Minimo storico secondo Prezzaffari/Keepa (-38% sulla media a 90 giorni); Camel ha solo il prezzo di lancio di 69,99 €, quindi prezzo abituale non verificato (null). Venduto e spedito da Amazon, poche unità.",
+      "trovata_il": "2026-11-27T14:40:18+01:00"
+    },
     {
       "id": "B0DJC9563Z",
       "titolo": "Horizon Zero Dawn Remastered Edition (PS5)",
