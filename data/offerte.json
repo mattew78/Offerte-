@@ -1,6 +1,34 @@
 {
-  "aggiornato": "2026-11-27T23:20:43+01:00",
+  "aggiornato": "2026-11-27T23:38:26+01:00",
   "offerte": [
+    {
+      "id": "B0HGM1D4JH",
+      "titolo": "Ufesa TotalChef RK15 Combo Robot da Cucina con Friggitrice ad Aria 2 in 1, 2400 W, Caraffa 4,5 L, Air Fryer 5 L, Display Touch 10”, WiFi",
+      "url": "https://www.amazon.it/dp/B0HGM1D4JH",
+      "immagine": "https://m.media-amazon.com/images/I/61U5RAAPDlL._AC_SL1254_.jpg",
+      "categoria": "Casa ed elettrodomestici",
+      "prezzo": 490.07,
+      "prezzo_abituale": 929.08,
+      "sconto_percentuale": 47,
+      "tipo": "offerta",
+      "venditore": "Amazon",
+      "nota": "Black Friday: -47% sul prezzo più basso degli ultimi 30 giorni indicato da Amazon (929,08 €). Venduto da Amazon.",
+      "trovata_il": "2026-11-27T23:38:26+01:00"
+    },
+    {
+      "id": "B0BPZSRTZV",
+      "titolo": "Cecotec Robot da Cucina Multifunzione con Dispensatore di Alimenti Mambo CooKing Victory, 1700 W, 45 Funzioni, Brocca da 5L",
+      "url": "https://www.amazon.it/dp/B0BPZSRTZV",
+      "immagine": "https://m.media-amazon.com/images/I/61DtkKhk6YL._AC_SL1000_.jpg",
+      "categoria": "Casa ed elettrodomestici",
+      "prezzo": 281.99,
+      "prezzo_abituale": 499.99,
+      "sconto_percentuale": 44,
+      "tipo": "offerta",
+      "venditore": "Amazon",
+      "nota": "Black Friday: -44% sul prezzo più basso degli ultimi 30 giorni indicato da Amazon (499,99 €); listino 599,90 €. Venduto da Amazon.",
+      "trovata_il": "2026-11-27T23:38:26+01:00"
+    },
     {
       "id": "B0F9LGFSFT",
       "titolo": "roborock H60 Aspirapolvere Senza Fili, Aspirazione Potente 27,000Pa, 60 min",
