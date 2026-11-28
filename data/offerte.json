@@ -1,6 +1,51 @@
 {
-  "aggiornato": "2026-11-28T05:15:57+01:00",
+  "aggiornato": "2026-11-28T05:21:02+01:00",
   "offerte": [
+    {
+      "id": "B0DXDTX47W",
+      "titolo": "Anker 240W Cavo USB C Ricarica Rapida, [1,8m 2-Pezzi] Nylon Resistente Nero",
+      "url": "https://www.amazon.it/dp/B0DXDTX47W",
+      "immagine": "https://m.media-amazon.com/images/I/816PiFPsa5L._SL1500_.jpg",
+      "categoria": "Elettronica e informatica",
+      "prezzo": 10.99,
+      "prezzo_abituale": 19.99,
+      "minimo_storico": 10.99,
+      "sconto_percentuale": 45,
+      "tipo": "offerta",
+      "venditore": "AnkerDirect IT (spedito da Amazon)",
+      "nota": "Minimo storico Keepa (12 mesi); -15% sul minimo dei 30 gg (12,99 €).",
+      "trovata_il": "2026-11-28T05:21:02+01:00"
+    },
+    {
+      "id": "B0HCYXFRNN",
+      "titolo": "Midea Asciugatrice Pompa di Calore 9 kg Classe C Turbo Dry 30' App",
+      "url": "https://www.amazon.it/dp/B0HCYXFRNN",
+      "immagine": "https://m.media-amazon.com/images/I/71VzwvbW9bL._AC_SL1500_.jpg",
+      "categoria": "Casa ed elettrodomestici",
+      "prezzo": 429.9,
+      "prezzo_abituale": 479.9,
+      "minimo_storico": 429.9,
+      "sconto_percentuale": 10,
+      "tipo": "offerta",
+      "venditore": "Amazon",
+      "nota": "Minimo storico Keepa (in vendita da settembre); di solito 480-520 €.",
+      "trovata_il": "2026-11-28T05:21:02+01:00"
+    },
+    {
+      "id": "B0HJ9QMTYM",
+      "titolo": "Apple Custodia MagSafe in tessuto TechWoven per iPhone 18 Pro Max - Borgogna",
+      "url": "https://www.amazon.it/dp/B0HJ9QMTYM",
+      "immagine": "https://m.media-amazon.com/images/I/81r0wWr9r8L._AC_SL1500_.jpg",
+      "categoria": "Elettronica e informatica",
+      "prezzo": 58.0,
+      "prezzo_abituale": 69.0,
+      "minimo_storico": 58.0,
+      "sconto_percentuale": 16,
+      "tipo": "offerta",
+      "venditore": "Amazon",
+      "nota": "Minimo storico Keepa; di solito 61,49-69 €.",
+      "trovata_il": "2026-11-28T05:21:02+01:00"
+    },
     {
       "id": "B0FFGQ7L2T",
       "titolo": "roborock Qrevo Curv 2 Pro Robot Aspirapolvere Lavapavimenti, LDS Retrattile",
@@ -2927,50 +2972,6 @@
       "venditore": "Amazon",
       "nota": "Black Friday al minimo storico Prezzaffari (89 €); Amazon indica 119 € come prezzo più basso degli ultimi 30 giorni. Variante Nero e oro.",
       "trovata_il": "2026-11-27T20:42:41+01:00"
-    },
-    {
-      "id": "B0H7CJNBRD",
-      "titolo": "HONOR MAGIC V6 16+512GB GOLD",
-      "url": "https://www.amazon.it/dp/B0H7CJNBRD",
-      "immagine": "https://m.media-amazon.com/images/I/61wRXTS6UVL._AC_SL1200_.jpg",
-      "categoria": "Elettronica e informatica",
-      "prezzo": 1279.0,
-      "prezzo_abituale": 1618.74,
-      "minimo_storico": 1279.0,
-      "sconto_percentuale": 21,
-      "tipo": "offerta",
-      "venditore": "Amazon",
-      "nota": "Offerta lampo al minimo storico Prezzaffari; media 90 giorni 1.618,74 €, listino 2.299,90 €. Variante Gold (stesso prezzo della Black).",
-      "trovata_il": "2026-11-27T20:42:41+01:00"
-    },
-    {
-      "id": "B09B94956P",
-      "titolo": "Echo Dot (modello 2022) | Altoparlante intelligente Wi-Fi e Bluetooth, suono più potente e dinamico | Bianco ghiaccio",
-      "url": "https://www.amazon.it/dp/B09B94956P",
-      "immagine": "https://m.media-amazon.com/images/I/71Yuwlj+YxL._AC_SL1500_.jpg",
-      "categoria": "Elettronica e informatica",
-      "prezzo": 34.99,
-      "prezzo_abituale": 89.99,
-      "sconto_percentuale": 61,
-      "tipo": "offerta",
-      "venditore": "Amazon",
-      "nota": "-61% sul prezzo più basso degli ultimi 30 giorni indicato da Amazon (89,99 €). Variante Bianco ghiaccio.",
-      "trovata_il": "2026-11-27T20:42:41+01:00"
-    },
-    {
-      "id": "B0DKLDMHYB",
-      "titolo": "Amazon Echo Dot Max (ultimo modello) - Altoparlante Alexa con audio avvolgente, Hub Casa Intelligente integrato, Ametista, con Accesso Anticipato ad Alexa+",
-      "url": "https://www.amazon.it/dp/B0DKLDMHYB",
-      "immagine": "https://m.media-amazon.com/images/I/7196SH2aQ-L._AC_SL1500_.jpg",
-      "categoria": "Elettronica e informatica",
-      "prezzo": 54.99,
-      "prezzo_abituale": 129.99,
-      "minimo_storico": 54.99,
-      "sconto_percentuale": 58,
-      "tipo": "offerta",
-      "venditore": "Amazon",
-      "nota": "Black Friday: -58% sul prezzo più basso degli ultimi 30 giorni indicato da Amazon (129,99 €); pari al minimo storico Prezzaffari. Variante Ametista.",
-      "trovata_il": "2026-11-27T20:22:13+01:00"
     }
   ]
 }
