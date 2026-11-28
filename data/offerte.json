@@ -1,6 +1,36 @@
 {
-  "aggiornato": "2026-11-28T04:27:56+01:00",
+  "aggiornato": "2026-11-28T04:37:46+01:00",
   "offerte": [
+    {
+      "id": "B0F8HSTM5N",
+      "titolo": "Cecotec Friggitrice ad Aria 10L Cecofry&Grill Duoheat 10000, 2800W, 3in1 friggitrice/grill/piastra",
+      "url": "https://www.amazon.it/dp/B0F8HSTM5N",
+      "immagine": "https://m.media-amazon.com/images/I/71zZxcjZifL._AC_SL1500_.jpg",
+      "categoria": "Casa ed elettrodomestici",
+      "prezzo": 63.99,
+      "prezzo_abituale": 89.9,
+      "minimo_storico": 63.99,
+      "sconto_percentuale": 29,
+      "tipo": "offerta",
+      "venditore": "Amazon",
+      "nota": "Minimo storico Keepa (pari al calo di inizio novembre); abituale 89,90 €, listino 99,90 €. Offerta a tempo.",
+      "trovata_il": "2026-11-28T04:37:46+01:00"
+    },
+    {
+      "id": "B0FQFJJ5PB",
+      "titolo": "Apple Watch Series 11 GPS + Cellular, cassa 42 mm in titanio ardesia, cinturino Sport nero M/L",
+      "url": "https://www.amazon.it/dp/B0FQFJJ5PB",
+      "immagine": "https://m.media-amazon.com/images/I/41Y9DSNVI3L._AC_SL1000_.jpg",
+      "categoria": "Elettronica e informatica",
+      "prezzo": 609.0,
+      "prezzo_abituale": 709.0,
+      "minimo_storico": 609.0,
+      "sconto_percentuale": 14,
+      "tipo": "offerta",
+      "venditore": "Amazon",
+      "nota": "Nuovo minimo storico (Keepa, storico da ottobre): -100 € sul prezzo più basso degli ultimi 30 giorni (709 €). Fino a esaurimento scorte promo.",
+      "trovata_il": "2026-11-28T04:37:46+01:00"
+    },
     {
       "id": "B0CCZ26B5V",
       "titolo": "Bose QuietComfort Headphones, cuffie over-ear wireless con cancellazione del rumore, Nero",
@@ -2941,36 +2971,6 @@
       "tipo": "offerta",
       "venditore": "Amazon",
       "nota": "Nuovo minimo storico Prezzaffari; media 90 gg Prezzaffari 37,39 € (-41%). Venduto da Amazon. Prezzo rilevato da Prezzaffari alle 19:01 (Amazon non ricontrollabile ora).",
-      "trovata_il": "2026-11-27T20:03:28+01:00"
-    },
-    {
-      "id": "B0F6436L5P",
-      "titolo": "Ring Videocitofono 2K Plus a batteria (ultimo modello)",
-      "url": "https://www.amazon.it/dp/B0F6436L5P",
-      "immagine": "https://m.media-amazon.com/images/I/51U+Od-a9-L.jpg",
-      "categoria": "Elettronica e informatica",
-      "prezzo": 89.99,
-      "prezzo_abituale": 154.97,
-      "minimo_storico": 89.99,
-      "sconto_percentuale": 42,
-      "tipo": "offerta",
-      "venditore": "Amazon",
-      "nota": "Nuovo minimo storico Prezzaffari; media 90 gg Prezzaffari 154,97 € (-42%). Venduto da Amazon. Prezzo rilevato da Prezzaffari alle 16:25 (Amazon non ricontrollabile ora).",
-      "trovata_il": "2026-11-27T20:03:28+01:00"
-    },
-    {
-      "id": "B0FJJM9R3Z",
-      "titolo": "Ring Videocitofono 2K cablato (Wired Video Doorbell 2K, ultimo modello)",
-      "url": "https://www.amazon.it/dp/B0FJJM9R3Z",
-      "immagine": "https://m.media-amazon.com/images/I/51LYJlS+mDL.jpg",
-      "categoria": "Elettronica e informatica",
-      "prezzo": 39.99,
-      "prezzo_abituale": 68.84,
-      "minimo_storico": 39.99,
-      "sconto_percentuale": 42,
-      "tipo": "offerta",
-      "venditore": "Amazon",
-      "nota": "Nuovo minimo storico Prezzaffari; media 90 gg Prezzaffari 68,84 € (-42%). Venduto da Amazon. Prezzo rilevato da Prezzaffari alle 15:45 (Amazon non ricontrollabile ora).",
       "trovata_il": "2026-11-27T20:03:28+01:00"
     }
   ]
