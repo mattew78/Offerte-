@@ -9,11 +9,10 @@
       "categoria": "Casa ed elettrodomestici",
       "prezzo": 69.0,
       "prezzo_abituale": 139.0,
-      "minimo_storico": 69.0,
       "sconto_percentuale": 50,
       "tipo": "offerta",
       "venditore": "Amazon",
-      "nota": "Offerta Black Friday: -50% sul prezzo più basso degli ultimi 30 giorni (139 €). Venduto e spedito da Amazon.",
+      "nota": "Offerta Black Friday: -50% sul prezzo più basso degli ultimi 30 giorni (139 €). Venduto e spedito da Amazon. Minimo storico non verificato.",
       "trovata_il": "2026-11-28T10:29:09+01:00"
     },
     {
