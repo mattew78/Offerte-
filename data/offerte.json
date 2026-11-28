@@ -1,6 +1,36 @@
 {
-  "aggiornato": "2026-11-28T01:10:44+01:00",
+  "aggiornato": "2026-11-28T01:45:52+01:00",
   "offerte": [
+    {
+      "id": "B09K1LWPRK",
+      "titolo": "Ring videocamera Plus con faretti a batteria (Spotlight Cam Plus) | Telecamera di sorveglianza wifi per esterno con video HD 1080p, audio bidirezionale",
+      "url": "https://www.amazon.it/dp/B09K1LWPRK",
+      "immagine": "https://m.media-amazon.com/images/I/51FnAaSO05L._SL1000_.jpg",
+      "categoria": "Elettronica e informatica",
+      "prezzo": 69.99,
+      "prezzo_abituale": 149.99,
+      "minimo_storico": 69.99,
+      "sconto_percentuale": 53,
+      "tipo": "offerta",
+      "venditore": "Amazon",
+      "nota": "Keepa: quasi sempre a 149,99 € (prezzo più basso degli ultimi 30 giorni 149,99 €); 69,99 € eguaglia il minimo storico. Versione a batteria. Venduto e spedito da Amazon, offerta Black Friday.",
+      "trovata_il": "2026-11-28T01:45:52+01:00"
+    },
+    {
+      "id": "B0GK8LSPSZ",
+      "titolo": "KitchenAid Frullino 9 Velocità, Motore DC 85W con Soft Start, 6 Accessori, Cavo Girevole, Borsa Inclusa, Rosso Empire",
+      "url": "https://www.amazon.it/dp/B0GK8LSPSZ",
+      "immagine": "https://m.media-amazon.com/images/I/71rgbxPXEuL._AC_SL1500_.jpg",
+      "categoria": "Casa ed elettrodomestici",
+      "prezzo": 79.0,
+      "prezzo_abituale": 139.0,
+      "minimo_storico": 79.0,
+      "sconto_percentuale": 43,
+      "tipo": "offerta",
+      "venditore": "Amazon",
+      "nota": "Keepa: tra 170 e 205 € da giugno, 139 € a novembre (prezzo più basso degli ultimi 30 giorni); 79 € è il nuovo minimo storico (consigliato 169 €). Venduto e spedito da Amazon.",
+      "trovata_il": "2026-11-28T01:45:52+01:00"
+    },
     {
       "id": "B0D425F4Y6",
       "titolo": "Logitech Combo Touch per iPad Air da 13 pollici (M2, M3 e M4) - ITA QWERTY",
@@ -2950,36 +2980,6 @@
       "venditore": "Amazon",
       "nota": "Pari al minimo storico Prezzaffari (89,90 €, registrato il 19/11/2026); media 90 gg 226,61 € (-60%), media 30 gg 226,61 € (-60%). Venduto da Amazon.",
       "trovata_il": "2026-11-27T18:11:51+01:00"
-    },
-    {
-      "id": "B0GPY69KMG",
-      "titolo": "Ring Videocitofono 2K a batteria e videocamera interna Plus",
-      "url": "https://www.amazon.it/dp/B0GPY69KMG",
-      "immagine": "https://m.media-amazon.com/images/I/51+EdYgWZzL._SL1500_.jpg",
-      "categoria": "Elettronica e informatica",
-      "prezzo": 54.99,
-      "prezzo_abituale": 130.38,
-      "minimo_storico": 54.99,
-      "sconto_percentuale": 58,
-      "tipo": "offerta",
-      "venditore": "Amazon",
-      "nota": "Pari al minimo storico Prezzaffari (54,99 €, registrato il 24/11/2026); media 90 gg 130,38 € (-58%), media 30 gg 139,60 € (-61%). Venduto da Amazon.",
-      "trovata_il": "2026-11-27T18:11:50+01:00"
-    },
-    {
-      "id": "B0GM15CN7G",
-      "titolo": "Videocamera esterna 2K+ Blink con Modulo di sincronizzazione di base, videocamera Mini 2K+ Blink incluso",
-      "url": "https://www.amazon.it/dp/B0GM15CN7G",
-      "immagine": "https://m.media-amazon.com/images/I/41lXO0VXFwL._SL1500_.jpg",
-      "categoria": "Elettronica e informatica",
-      "prezzo": 107.99,
-      "prezzo_abituale": 233.71,
-      "minimo_storico": 107.99,
-      "sconto_percentuale": 54,
-      "tipo": "offerta",
-      "venditore": "Amazon",
-      "nota": "Pari al minimo storico Prezzaffari (107,99 €, registrato il 29/09/2026); media 90 gg 233,71 € (-54%), media 30 gg 248,92 € (-57%). Venduto da Amazon.",
-      "trovata_il": "2026-11-27T18:11:49+01:00"
     }
   ]
 }
