@@ -1,6 +1,50 @@
 {
-  "aggiornato": "2026-11-28T05:47:28+01:00",
+  "aggiornato": "2026-11-28T06:09:23+01:00",
   "offerte": [
+    {
+      "id": "B0BSH3JKQB",
+      "titolo": "ASUS ROG STRIX OLED XG32UCWMG, Monitor Gaming da 31,5\" 4K UHD OLED, Nero",
+      "url": "https://www.amazon.it/dp/B0BSH3JKQB",
+      "immagine": "https://m.media-amazon.com/images/I/91Uv2AzDhGL._AC_SL1500_.jpg",
+      "categoria": "Elettronica e informatica",
+      "prezzo": 701.94,
+      "prezzo_abituale": 832.3,
+      "minimo_storico": 701.94,
+      "sconto_percentuale": 16,
+      "tipo": "offerta",
+      "venditore": "Amazon",
+      "nota": "Minimo storico Keepa (12 mesi, di solito ~850-950 €); minimo 30 gg 832,30 €. Offerta a tempo, listino 1.099 € gonfiato.",
+      "trovata_il": "2026-11-28T06:09:23+01:00"
+    },
+    {
+      "id": "B0GK246NH3",
+      "titolo": "Amazfit Active 3 Premium Smartwatch GPS Running 45mm, Batteria 12gg, NFC",
+      "url": "https://www.amazon.it/dp/B0GK246NH3",
+      "immagine": "https://m.media-amazon.com/images/I/61AdmFRvbgL._AC_SL1500_.jpg",
+      "categoria": "Elettronica e informatica",
+      "prezzo": 125.0,
+      "prezzo_abituale": 169.28,
+      "minimo_storico": 125.0,
+      "sconto_percentuale": 26,
+      "tipo": "offerta",
+      "venditore": "Amazon",
+      "nota": "Minimo storico Keepa; minimo 30 gg 169,28 €. Offerta Black Friday.",
+      "trovata_il": "2026-11-28T06:09:23+01:00"
+    },
+    {
+      "id": "B0DRBMB5PM",
+      "titolo": "Tenda A18 Pro Repeater WiFi Dual-Band AC1200 con Porta Gigabit",
+      "url": "https://www.amazon.it/dp/B0DRBMB5PM",
+      "immagine": "https://m.media-amazon.com/images/I/615ywtchZOL._AC_SL1500_.jpg",
+      "categoria": "Elettronica e informatica",
+      "prezzo": 23.01,
+      "prezzo_abituale": 29.99,
+      "sconto_percentuale": 23,
+      "tipo": "offerta",
+      "venditore": "Amazon",
+      "nota": "Vicino al minimo Keepa 12 mesi (~23 €, di solito ~30 €); minimo 30 gg 29,99 €. Offerta a tempo.",
+      "trovata_il": "2026-11-28T06:09:23+01:00"
+    },
     {
       "id": "B0CWB662HK",
       "titolo": "Garmin Forerunner 165 Music, 43mm, Smartwatch GPS per la Corsa, Black",
@@ -2926,51 +2970,6 @@
       "tipo": "offerta",
       "venditore": "Amazon",
       "nota": "Black Friday al minimo storico Prezzaffari (59,99 €); media 90 giorni 92,34 €, minimo 30 giorni Amazon 79 €.",
-      "trovata_il": "2026-11-27T21:01:50+01:00"
-    },
-    {
-      "id": "B0GZW1BYJF",
-      "titolo": "Nothing Ear (3a) auricolari Bluetooth con ANC ibrida fino a 45 dB, White",
-      "url": "https://www.amazon.it/dp/B0GZW1BYJF",
-      "immagine": "https://m.media-amazon.com/images/I/71fGx24KqML.jpg",
-      "categoria": "Elettronica e informatica",
-      "prezzo": 59.99,
-      "prezzo_abituale": 95.19,
-      "minimo_storico": 59.99,
-      "sconto_percentuale": 37,
-      "tipo": "offerta",
-      "venditore": "Amazon",
-      "nota": "Black Friday al minimo storico Prezzaffari (59,99 €); media 90 giorni 95,19 €, minimo 30 giorni Amazon 79 €.",
-      "trovata_il": "2026-11-27T21:01:50+01:00"
-    },
-    {
-      "id": "B0GPVQW1F5",
-      "titolo": "moto buds 2 plus (Sound by Bose, ANC dinamica, 40 ore di autonomia, IP54), Cool White",
-      "url": "https://www.amazon.it/dp/B0GPVQW1F5",
-      "immagine": "https://m.media-amazon.com/images/I/61o8guLCX7L.jpg",
-      "categoria": "Elettronica e informatica",
-      "prezzo": 59.9,
-      "prezzo_abituale": 90.78,
-      "minimo_storico": 59.9,
-      "sconto_percentuale": 34,
-      "tipo": "offerta",
-      "venditore": "Amazon",
-      "nota": "Black Friday al minimo storico Prezzaffari (59,90 €); media 90 giorni 90,78 €, minimo 30 giorni Amazon 79,90 €.",
-      "trovata_il": "2026-11-27T21:01:50+01:00"
-    },
-    {
-      "id": "B0GPWB6458",
-      "titolo": "Moto Buds 2 Plus - Silhouette",
-      "url": "https://www.amazon.it/dp/B0GPWB6458",
-      "immagine": "https://m.media-amazon.com/images/I/61L53uxUldL.jpg",
-      "categoria": "Elettronica e informatica",
-      "prezzo": 59.9,
-      "prezzo_abituale": 90.69,
-      "minimo_storico": 59.9,
-      "sconto_percentuale": 34,
-      "tipo": "offerta",
-      "venditore": "Amazon",
-      "nota": "Black Friday al minimo storico Prezzaffari (59,90 €); media 90 giorni 90,69 €, minimo 30 giorni Amazon 75,16 €.",
       "trovata_il": "2026-11-27T21:01:50+01:00"
     }
   ]
