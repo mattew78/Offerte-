@@ -1,6 +1,51 @@
 {
-  "aggiornato": "2026-11-28T05:39:01+01:00",
+  "aggiornato": "2026-11-28T05:47:28+01:00",
   "offerte": [
+    {
+      "id": "B0CWB662HK",
+      "titolo": "Garmin Forerunner 165 Music, 43mm, Smartwatch GPS per la Corsa, Black",
+      "url": "https://www.amazon.it/dp/B0CWB662HK",
+      "immagine": "https://m.media-amazon.com/images/I/612nZ+KvRUL._AC_SL1500_.jpg",
+      "categoria": "Elettronica e informatica",
+      "prezzo": 194.99,
+      "prezzo_abituale": 279.99,
+      "minimo_storico": 194.99,
+      "sconto_percentuale": 30,
+      "tipo": "offerta",
+      "venditore": "Amazon",
+      "nota": "Minimo storico Keepa (12 mesi, di solito ~250 €); minimo 30 gg 219 €. Offerta Black Friday.",
+      "trovata_il": "2026-11-28T05:47:28+01:00"
+    },
+    {
+      "id": "B0G2SH23CH",
+      "titolo": "Philips Airfryer 5000 - Friggitrice ad aria, Cestello Flexi da 9.5L, Vapore",
+      "url": "https://www.amazon.it/dp/B0G2SH23CH",
+      "immagine": "https://m.media-amazon.com/images/I/51xUzAPWNKL._AC_SL1000_.jpg",
+      "categoria": "Casa ed elettrodomestici",
+      "prezzo": 229.0,
+      "prezzo_abituale": 299.99,
+      "minimo_storico": 229.0,
+      "sconto_percentuale": 24,
+      "tipo": "offerta",
+      "venditore": "Amazon",
+      "nota": "Al minimo storico Keepa (di solito 250-300 €). Offerta Black Friday.",
+      "trovata_il": "2026-11-28T05:47:28+01:00"
+    },
+    {
+      "id": "B0G2LSZ354",
+      "titolo": "Trezor Safe 7 Portafoglio hardware per criptovalute con Bluetooth e touchscreen a colori",
+      "url": "https://www.amazon.it/dp/B0G2LSZ354",
+      "immagine": "https://m.media-amazon.com/images/I/71WG-N4atoL._AC_SL1500_.jpg",
+      "categoria": "Elettronica e informatica",
+      "prezzo": 179.0,
+      "prezzo_abituale": 249.0,
+      "minimo_storico": 179.0,
+      "sconto_percentuale": 28,
+      "tipo": "offerta",
+      "venditore": "Trezor Company (spedito da Amazon)",
+      "nota": "Minimo storico Keepa: sempre 249 € da febbraio. Offerta lampo Black Friday, venduto dal produttore.",
+      "trovata_il": "2026-11-28T05:47:28+01:00"
+    },
     {
       "id": "B0CDHC6HXX",
       "titolo": "Philips Hue Smart Plug, Presa intelligente, Confezione da 3",
@@ -2927,51 +2972,6 @@
       "venditore": "Amazon",
       "nota": "Black Friday al minimo storico Prezzaffari (59,90 €); media 90 giorni 90,69 €, minimo 30 giorni Amazon 75,16 €.",
       "trovata_il": "2026-11-27T21:01:50+01:00"
-    },
-    {
-      "id": "B07W4DH6G4",
-      "titolo": "Logitech H390 Cuffia con Cavo per PC/Portatile",
-      "url": "https://www.amazon.it/dp/B07W4DH6G4",
-      "immagine": "https://m.media-amazon.com/images/I/61ly+6GWpAL.jpg",
-      "categoria": "Elettronica e informatica",
-      "prezzo": 22.99,
-      "prezzo_abituale": 34.23,
-      "minimo_storico": 22.99,
-      "sconto_percentuale": 33,
-      "tipo": "offerta",
-      "venditore": "Amazon",
-      "nota": "Black Friday al minimo storico Prezzaffari (22,99 €); media 90 giorni 34,23 €, minimo 30 giorni Amazon 29,99 €. Variante rosa.",
-      "trovata_il": "2026-11-27T21:01:50+01:00"
-    },
-    {
-      "id": "B0FR7DLD52",
-      "titolo": "DRAGON QUEST VII Reimagined NSW2",
-      "url": "https://www.amazon.it/dp/B0FR7DLD52",
-      "immagine": "https://m.media-amazon.com/images/I/81Plt24P1zL.jpg",
-      "categoria": "Videogiochi e console",
-      "prezzo": 39.97,
-      "prezzo_abituale": 64.13,
-      "minimo_storico": 39.97,
-      "sconto_percentuale": 38,
-      "tipo": "offerta",
-      "venditore": "Amazon",
-      "nota": "Black Friday al minimo storico Prezzaffari (39,97 €); media 90 giorni 64,13 €, minimo 30 giorni Amazon 60,19 €.",
-      "trovata_il": "2026-11-27T21:01:50+01:00"
-    },
-    {
-      "id": "B0HH7T536Y",
-      "titolo": "Lenovo IdeaPad Slim 3 Notebook Intel Core i5-13420H, 8GB RAM, 512GB SSD",
-      "url": "https://www.amazon.it/dp/B0HH7T536Y",
-      "immagine": "https://m.media-amazon.com/images/I/71eFyYB-mqL._AC_SL1500_.jpg",
-      "categoria": "Elettronica e informatica",
-      "prezzo": 459.0,
-      "prezzo_abituale": 709.23,
-      "minimo_storico": 459.0,
-      "sconto_percentuale": 35,
-      "tipo": "offerta",
-      "venditore": "Amazon",
-      "nota": "Offerta lampo al minimo storico Prezzaffari (459 €); media 90 giorni 709,23 €, Amazon indica 799 € come prezzo più basso degli ultimi 30 giorni.",
-      "trovata_il": "2026-11-27T20:42:41+01:00"
     }
   ]
 }
