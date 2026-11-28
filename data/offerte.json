@@ -1,6 +1,36 @@
 {
-  "aggiornato": "2026-11-28T09:19:14+01:00",
+  "aggiornato": "2026-11-28T09:38:29+01:00",
   "offerte": [
+    {
+      "id": "B09B8RF4PY",
+      "titolo": "Echo Dot (modello 2022) | Altoparlante intelligente Wi-Fi e Bluetooth, suono più potente e dinamico | Blu notte, con Accesso Anticipato ad A",
+      "url": "https://www.amazon.it/dp/B09B8RF4PY",
+      "immagine": "https://m.media-amazon.com/images/I/71M2BrV3iBL._AC_SL1500_.jpg",
+      "categoria": "Elettronica e informatica",
+      "prezzo": 34.99,
+      "prezzo_abituale": 89.99,
+      "minimo_storico": null,
+      "sconto_percentuale": 61,
+      "tipo": "offerta",
+      "venditore": "Amazon",
+      "nota": "-61% sul prezzo più basso degli ultimi 30 giorni indicato da Amazon (89,99 €). Stesso prezzo delle altre varianti colore già segnalate.",
+      "trovata_il": "2026-11-28T09:38:29+01:00"
+    },
+    {
+      "id": "B0GZW668V4",
+      "titolo": "Nothing Ear (3a) auricolari Bluetooth con ANC ibrida fino a 45 dB, driver da 12 mm, audio Hi-Res, bassi potenti, 6 microfoni, connessione mu",
+      "url": "https://www.amazon.it/dp/B0GZW668V4",
+      "immagine": "https://m.media-amazon.com/images/I/71KXTFLFSpL._AC_SL1500_.jpg",
+      "categoria": "Elettronica e informatica",
+      "prezzo": 59.99,
+      "prezzo_abituale": 99.0,
+      "minimo_storico": null,
+      "sconto_percentuale": 39,
+      "tipo": "offerta",
+      "venditore": "Amazon",
+      "nota": "Offerta Black Friday: -39% sul prezzo più basso degli ultimi 30 giorni (99 €); stesso prezzo delle altre varianti colore già segnalate, minimo da lancio.",
+      "trovata_il": "2026-11-28T09:38:29+01:00"
+    },
     {
       "id": "B0BKH4FX9Y",
       "titolo": "Jabra Evolve2 Buds Auricolari Bluetooth con Microfono, USB-A, Teams, Nero",
@@ -2930,36 +2960,6 @@
       "tipo": "offerta",
       "venditore": "Amazon",
       "nota": "Pari al minimo storico (Keepa); tra settembre e novembre di solito 185-200 €. Venduto e spedito da Amazon.",
-      "trovata_il": "2026-11-28T04:13:14+01:00"
-    },
-    {
-      "id": "B0BFB3Q7SD",
-      "titolo": "Cecotec Friggitrice ad Aria 5,5 L Cecofry Full InoxBlack Pro 5500, 1700 W",
-      "url": "https://www.amazon.it/dp/B0BFB3Q7SD",
-      "immagine": "https://m.media-amazon.com/images/I/41Foj1ZaoCL._SL1500_.jpg",
-      "categoria": "Casa ed elettrodomestici",
-      "prezzo": 38.99,
-      "prezzo_abituale": 54.0,
-      "minimo_storico": 38.99,
-      "sconto_percentuale": 28,
-      "tipo": "offerta",
-      "venditore": "Amazon",
-      "nota": "Al minimo storico dell'ultimo anno (Keepa); da luglio a inizio novembre stabile sui 54 €. Venduto e spedito da Amazon.",
-      "trovata_il": "2026-11-28T04:13:14+01:00"
-    },
-    {
-      "id": "B001QB4I8C",
-      "titolo": "Severin Bistecchiera Elettrica, Piastra per Panini, Tostapane, 800W",
-      "url": "https://www.amazon.it/dp/B001QB4I8C",
-      "immagine": "https://m.media-amazon.com/images/I/71U6UR-FlPL._SL1500_.jpg",
-      "categoria": "Casa ed elettrodomestici",
-      "prezzo": 18.99,
-      "prezzo_abituale": 25.0,
-      "minimo_storico": 18.99,
-      "sconto_percentuale": 24,
-      "tipo": "offerta",
-      "venditore": "Amazon",
-      "nota": "Minimo storico dell'ultimo anno (Keepa): per quasi tutto l'anno a 25 €. Listino 39,99 € (-53%). Venduto e spedito da Amazon.",
       "trovata_il": "2026-11-28T04:13:14+01:00"
     }
   ]
