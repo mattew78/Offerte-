@@ -1,6 +1,21 @@
 {
-  "aggiornato": "2026-11-28T02:03:54+01:00",
+  "aggiornato": "2026-11-28T02:41:21+01:00",
   "offerte": [
+    {
+      "id": "B0F8JDP2NT",
+      "titolo": "Samsung Smart Monitor M7 43'' 4K UHD (S43FM702) – Smart Hub, Gaming Hub, Wi-Fi, USB-C, telecomando",
+      "url": "https://www.amazon.it/dp/B0F8JDP2NT",
+      "immagine": "https://m.media-amazon.com/images/I/61MqUnKYycL._AC_SL1005_.jpg",
+      "categoria": "Elettronica e informatica",
+      "prezzo": 299.92,
+      "prezzo_abituale": 399.0,
+      "minimo_storico": 299.92,
+      "sconto_percentuale": 25,
+      "tipo": "offerta",
+      "venditore": "Amazon",
+      "nota": "Nuovo minimo storico: il precedente era 327,02 € (giugno 2026), di solito 379-399 €. Prezzo più basso degli ultimi 30 giorni 399 € (-25%). Venduto e spedito da Amazon, offerta a tempo del Black Friday.",
+      "trovata_il": "2026-11-28T02:41:21+01:00"
+    },
     {
       "id": "B09YHQRDNR",
       "titolo": "Corsair HS55 SURROUND Cuffie Gaming Cablate 7.1 Multipiattaforma – Bianco",
@@ -2960,21 +2975,6 @@
       "venditore": "Narwal Direct (spedito da Amazon)",
       "nota": "Pari al minimo storico Prezzaffari (489,00 €, registrato il 11/11/2026); media 90 gg 689,16 € (-29%), media 30 gg 597,31 € (-18%). Venduto da Narwal Direct (store ufficiale), spedito da Amazon.",
       "trovata_il": "2026-11-27T18:37:00+01:00"
-    },
-    {
-      "id": "B0C2QG2D3Y",
-      "titolo": "Garmin Forerunner 265S, Smartwatch per la corsa, 42mm, GPS multi-band, Display AMOLED, VO2max, HRV Status, Dinamiche di corsa al polso, Temp",
-      "url": "https://www.amazon.it/dp/B0C2QG2D3Y",
-      "immagine": "https://m.media-amazon.com/images/I/71iQyRbcsIL._AC_SL1500_.jpg",
-      "categoria": "Elettronica e informatica",
-      "prezzo": 277.42,
-      "prezzo_abituale": 415.08,
-      "minimo_storico": 277.42,
-      "sconto_percentuale": 33,
-      "tipo": "offerta",
-      "venditore": "Amazon",
-      "nota": "Pari al minimo storico Prezzaffari (277,42 €, registrato il 26/11/2026); media 90 gg 415,08 € (-33%), media 30 gg 331,28 € (-16%). Venduto da Amazon.",
-      "trovata_il": "2026-11-27T18:25:02+01:00"
     }
   ]
 }
