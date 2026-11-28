@@ -1,6 +1,20 @@
 {
-  "aggiornato": "2026-11-28T10:29:09+01:00",
+  "aggiornato": "2026-11-28T11:22:14+01:00",
   "offerte": [
+    {
+      "id": "B0HFJGHJ49",
+      "titolo": "OPPO Find X10 Pro Max 5G Smartphone 12GB+512GB, tripla 200MP",
+      "url": "https://www.amazon.it/dp/B0HFJGHJ49",
+      "immagine": "https://m.media-amazon.com/images/I/617-yXQLHNL._AC_SL1500_.jpg",
+      "categoria": "Elettronica e informatica",
+      "prezzo": 1049.0,
+      "prezzo_abituale": 1783.02,
+      "sconto_percentuale": 41,
+      "tipo": "offerta",
+      "venditore": "Amazon",
+      "nota": "Offerta Black Friday: -41% sul prezzo più basso degli ultimi 30 giorni (1.783,02 €). Venduto e spedito da Amazon. Minimo storico non verificato.",
+      "trovata_il": "2026-11-28T11:22:14+01:00"
+    },
     {
       "id": "B0GQT9LJ4X",
       "titolo": "DREAME BlendLogic Frullatore con Tecnologia iDetect, Bianco",
@@ -2944,21 +2958,6 @@
       "tipo": "offerta",
       "venditore": "Amazon",
       "nota": "Minimo storico (Keepa): da settembre stabile a 291,49 €, in precedenza 285-329 €. Listino 329 €. Venduto e spedito da Amazon.",
-      "trovata_il": "2026-11-28T04:27:56+01:00"
-    },
-    {
-      "id": "B0FVLQF1WF",
-      "titolo": "Candy ProWash 300 Lavatrice 10 Kg, 1400 giri, Classe A-20%, Bianca",
-      "url": "https://www.amazon.it/dp/B0FVLQF1WF",
-      "immagine": "https://m.media-amazon.com/images/I/71YPo9jOA7L._AC_SL1500_.jpg",
-      "categoria": "Casa ed elettrodomestici",
-      "prezzo": 314.0,
-      "prezzo_abituale": 349.0,
-      "minimo_storico": 314.0,
-      "sconto_percentuale": 10,
-      "tipo": "offerta",
-      "venditore": "Amazon",
-      "nota": "Minimo storico a 12 mesi (Keepa): prima mai sotto circa 320 €. Prezzo più basso 30 gg 349 €, listino 414 € (-24%). Venduto e spedito da Amazon.",
       "trovata_il": "2026-11-28T04:27:56+01:00"
     }
   ]
