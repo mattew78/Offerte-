@@ -1,6 +1,36 @@
 {
-  "aggiornato": "2026-11-28T09:38:29+01:00",
+  "aggiornato": "2026-11-28T09:55:31+01:00",
   "offerte": [
+    {
+      "id": "B0GWCQB4LN",
+      "titolo": "Lefant V1 Aspirapolvere Senza Fili Scopa Elettrica Potente Filo Batteria",
+      "url": "https://www.amazon.it/dp/B0GWCQB4LN",
+      "immagine": "https://m.media-amazon.com/images/I/715syz7T+qL._AC_SL1500_.jpg",
+      "categoria": "Casa ed elettrodomestici",
+      "prezzo": 109.99,
+      "prezzo_abituale": 339.99,
+      "minimo_storico": null,
+      "sconto_percentuale": 68,
+      "tipo": "offerta",
+      "venditore": "Lefant Robotics (spedito da Amazon)",
+      "nota": "Offerta Black Friday: -68% sul prezzo più basso degli ultimi 30 giorni indicato da Amazon (339,99 €; listino 589 €).",
+      "trovata_il": "2026-11-28T09:55:31+01:00"
+    },
+    {
+      "id": "B0FQNQPW6W",
+      "titolo": "Lefant M5 Pro Robot Aspirapolvere Lavapavimenti con Rullo 23000Pa",
+      "url": "https://www.amazon.it/dp/B0FQNQPW6W",
+      "immagine": "https://m.media-amazon.com/images/I/71B1RjVpBwL._AC_SL1500_.jpg",
+      "categoria": "Casa ed elettrodomestici",
+      "prezzo": 299.99,
+      "prezzo_abituale": 799.0,
+      "minimo_storico": null,
+      "sconto_percentuale": 62,
+      "tipo": "offerta",
+      "venditore": "Lefant Robotics (spedito da Amazon)",
+      "nota": "Offerta Black Friday: -62% sul listino 799 € (Amazon indica 999,99 € come prezzo più basso degli ultimi 30 giorni). Minimo storico non verificato.",
+      "trovata_il": "2026-11-28T09:55:31+01:00"
+    },
     {
       "id": "B09B8RF4PY",
       "titolo": "Echo Dot (modello 2022) | Altoparlante intelligente Wi-Fi e Bluetooth, suono più potente e dinamico | Blu notte, con Accesso Anticipato ad A",
@@ -2930,36 +2960,6 @@
       "tipo": "offerta",
       "venditore": "Amazon",
       "nota": "Nuovo minimo storico (Keepa): tra settembre e metà novembre circa 445 €, poi 399 €. Listino 499,99 € (-25%). Venduto e spedito da Amazon.",
-      "trovata_il": "2026-11-28T04:13:14+01:00"
-    },
-    {
-      "id": "B0H62JKVJP",
-      "titolo": "Google Pixel 11 - Smartphone Android sbloccato - Nero ossidiana, 512GB",
-      "url": "https://www.amazon.it/dp/B0H62JKVJP",
-      "immagine": "https://m.media-amazon.com/images/I/31PW283UaZL._SL1500_.jpg",
-      "categoria": "Elettronica e informatica",
-      "prezzo": 799.0,
-      "prezzo_abituale": 1129.0,
-      "minimo_storico": 799.0,
-      "sconto_percentuale": 29,
-      "tipo": "offerta",
-      "venditore": "Amazon",
-      "nota": "Nuovo minimo storico (Keepa), lancio ad agosto a 1.129 €. Calo graduale: nelle ultime settimane già 820-830 €. Venduto e spedito da Amazon.",
-      "trovata_il": "2026-11-28T04:13:14+01:00"
-    },
-    {
-      "id": "B0CQMPH7BJ",
-      "titolo": "Philips Airfryer 3000 - Friggitrice ad aria Doppio Cestello 9L (3+6L) NA350/00",
-      "url": "https://www.amazon.it/dp/B0CQMPH7BJ",
-      "immagine": "https://m.media-amazon.com/images/I/31sVrlywE7L._SL1500_.jpg",
-      "categoria": "Casa ed elettrodomestici",
-      "prezzo": 119.99,
-      "prezzo_abituale": 185.0,
-      "minimo_storico": 119.99,
-      "sconto_percentuale": 35,
-      "tipo": "offerta",
-      "venditore": "Amazon",
-      "nota": "Pari al minimo storico (Keepa); tra settembre e novembre di solito 185-200 €. Venduto e spedito da Amazon.",
       "trovata_il": "2026-11-28T04:13:14+01:00"
     }
   ]
